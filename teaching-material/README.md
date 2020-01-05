@@ -87,3 +87,33 @@ Ask yourself questions such as:
 - Is provided alongside multiple opportunities to put into practice.
 - Focuses on the single smallest thing that will help them make the most progress.
 - Offers formative comments rather than marks.
+
+### Lasting Learning
+
+*Multi-tasking is the wrong option anytime you expect to learn, acquire knowledge, or think deeply.*
+
+Multi-tasking normally means task-switching, which has a cost (the context switch).  Eliminate task-switching to save time.  This will improve learning through concentration.
+
+When planning a lesson, ask yourself: **what exactly do I want my students to be thinking about?  And what do I NOT want my students to be wasting their bandwidth on?
+
+#### Anchoring Thinking
+
+Anchor new thinking by:
+
+- Exploring what your students already know about the topic, and using this as a starting point when designing and selecting activities.
+- Finding out what they are interested in and using this to create a context that is meaningful to them.
+- Helping them identify connections between what they are learning and what they already know.
+
+Concept mapping can be useful in helping to achieve these outcomes.
+
+### Spaced Learning
+
+Here is a basic timeline of spaced (or distributed) learning:
+
+1. **First encounter**: expose students to an idea or process for the first time during part of a lesson.
+2. **Days later**: reactivate the learning next time you see the students, with a recap of key ideas, and a few consolidation activities.
+3. **Weeks later**: repeat in a similar way a few lessons down the line, and again a few weeks later.
+
+Between visits alter the learning experience a little, but not too much.  Add elements or change the context, but make sure the previous encounter is still highly recognisable.
+
+And at the start check where they are: **what do you remember from the last time we explored this?**
