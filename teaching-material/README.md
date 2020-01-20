@@ -106,7 +106,7 @@ Anchor new thinking by:
 
 Concept mapping can be useful in helping to achieve these outcomes.
 
-### Spaced Learning
+#### Spaced Learning
 
 Here is a basic timeline of spaced (or distributed) learning:
 
@@ -117,3 +117,24 @@ Here is a basic timeline of spaced (or distributed) learning:
 Between visits alter the learning experience a little, but not too much.  Add elements or change the context, but make sure the previous encounter is still highly recognisable.
 
 And at the start check where they are: **what do you remember from the last time we explored this?**
+
+#### Deliberate Practice
+
+To help fluency, plan regular opportunities for deliberate practice.
+
+- **Practice the core**: practice fewer, more important things in greater depth.
+- **Practice first**: provide opportunities to consolidate existing understanding before being exposed to more.
+- **Feed forward**: offer high quality feedback on how to improve alongside opportunities for further practice.
+- **Graduated challenge**: increase the challenge little by little rather than in big jumps.
+- **Bright spots**: practice things you are already good at, as well as what you need to improve.
+- **Drill the basics**: drill basic ideas and processes to free up bandwidth for more complex learning.
+- **Practice success**: practice learning from mistakes rather than making them.
+
+### Inter-lesson planning
+
+Ask yourself:
+
+- **What previous learning do we need to revisit in today's lesson?**.
+- **What prior knowledge to I need to assess today so I can plan properly for my next lesson?**
+
+
