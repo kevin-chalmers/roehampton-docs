@@ -137,4 +137,33 @@ Ask yourself:
 - **What previous learning do we need to revisit in today's lesson?**.
 - **What prior knowledge to I need to assess today so I can plan properly for my next lesson?**
 
+### Growth Teaching
 
+1. Innovate
+    1. **Diagnose** - Identify a part of your teaching to improve.
+2. Evaluate
+    1. **Design** - Develop a (potentially) better approach.
+    2. **Teach** - Try it out in your classroom over time.
+    3. **Measure** - Evaluate the impact of this new approach.
+    4. **Learn** - Figure out what's happening.  Rinse and repeat.
+3. Iterate
+
+#### Balanced Evaluation
+
+A robust evaluation combines multiple approaches:
+
+1. **Progress indicators** - data from exit-assessments, in-class assessments, and results from tests.
+2. **Observational perspectives** - feedback from any other teachers or self-video recordings.
+3. **Student surveys** - feedback from students using targeted questions, post-it notes, exit assessments, or discussion.
+
+### Collective Improvement
+
+Set aside an hour every 1-2 weeks with a protected agenda to discuss how to improve.
+
+Use the following framework:
+
+1. **Isolate** - what am I currently focusing on and why?
+2. **Situate** - what context am I doing this in?
+3. **Validate** - How do I know when it's working (or not)?
+4. **Narrate** - how did this come about and what's next?
+5. **Kickstart** - how can someone else get started with this?
